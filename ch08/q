@@ -1,0 +1,116 @@
+Demos with name or title matching ‘predict’ using fuzzy matching:
+
+
+stats::glm.vr           Some glm() examples from V&R with several
+                        predictors
+
+
+Type 'demo(PKG::FOO)' to run demonstration 'PKG::FOO'.
+
+
+
+Help files with alias or concept or title matching ‘predict’ using
+fuzzy matching:
+
+
+cluster::predict.ellipsoid
+                        Predict Method for Ellipsoid Objects
+ergm::ergmMPLE          ERGM Predictors and response for logistic
+                        regression calculation of MPLE
+latentnet::nterms.model
+                        Internal latentnet Objects
+latentnet::predict.ergmm
+                        Predicted Dyad Values for an ERGMM.
+MASS::dose.p            Predict Doses for Binomial Assay model
+MASS::predict.glmmPQL   Predict Method for glmmPQL Fits
+MASS::predict.lda       Classify Multivariate Observations by Linear
+                        Discrimination
+MASS::predict.lqs       Predict from an lqs Fit
+MASS::predict.mca       Predict Method for Class 'mca'
+MASS::predict.qda       Classify from Quadratic Discriminant Analysis
+MASS::rlm               Robust Fitting of Linear Models
+mgcv::Predict.matrix    Prediction methods for smooth terms in a GAM
+mgcv::Predict.matrix.cr.smooth
+                        Predict matrix method functions
+mgcv::Predict.matrix.soap.film
+                        Prediction matrix for soap film smooth
+mgcv::exclude.too.far   Exclude prediction grid points too far from
+                        data
+mgcv::linear.functional.terms
+                        Linear functionals of a smooth in GAMs
+mgcv::predict.bam       Prediction from fitted Big Additive Model model
+mgcv::predict.gam       Prediction from fitted GAM model
+mgcv::smooth.construct.ds.smooth.spec
+                        Low rank Duchon 1977 splines
+mgcv::smooth.construct.fs.smooth.spec
+                        Factor smooth interactions in GAMs
+mgcv::smooth.construct.mrf.smooth.spec
+                        Markov Random Field Smooths
+mgcv::smooth.construct.re.smooth.spec
+                        Simple random effects in GAMs
+mgcv::smooth.construct.sos.smooth.spec
+                        Splines on the sphere
+mgcv::smoothCon         Prediction/Construction wrapper functions for
+                        GAM smooth terms
+nlme::augPred           Augmented Predictions
+nlme::comparePred       Compare Predictions
+nlme::predict.gls       Predictions from a gls Object
+nlme::predict.gnls      Predictions from a gnls Object
+nlme::predict.lmList    Predictions from an lmList Object
+nlme::predict.lme       Predictions from an lme Object
+nlme::predict.nlme      Predictions from an nlme Object
+nnet::multinom          Fit Multinomial Log-linear Models
+nnet::predict.nnet      Predict New Examples by a Trained Neural Net
+robustbase::nlrob       Robust Fitting of Nonlinear Regression Models
+robustbase::predict.glmrob
+                        Predict Method for Robust GLM ("glmrob") Fits
+robustbase::predict.lmrob
+                        Predict method for Robust Linear Model
+                        ("lmrob") Fits
+robustbase::splitFrame
+                        Split Continuous and Categorical Predictors
+rpart::predict.rpart    Predictions from a Fitted Rpart Object
+rpart::xpred.rpart      Return Cross-Validated Predictions
+sna::npostpred          Take Posterior Predictive Draws for Functions
+                        of Networks
+spatial::predict.trls   Predict method for trend surface fits
+spatial::semat          Evaluate Kriging Standard Error of Prediction
+                        over a Grid
+survival::predict.coxph
+                        Predictions for a Cox model
+survival::predict.survreg
+                        Predicted Values for a 'survreg' Object
+tree::na.tree.replace   Replace NAs in Predictor Variables
+tree::predict.tree      Predictions from a Fitted Tree Object
+splines::predict.bSpline
+                        Evaluate a Spline at New Values of x
+splines::predict.bs     Evaluate a Spline Basis
+stats::StructTS         Fit Structural Time Series
+stats::ar               Fit Autoregressive Models to Time Series
+stats::arima0           ARIMA Modelling of Time Series - Preliminary
+                        Version
+stats::makepredictcall
+                        Utility Function for Safe Prediction
+stats::naresid          Adjust for Missing Values
+stats::poly             Compute Orthogonal Polynomials
+stats::prcomp           Principal Components Analysis
+stats::predict.HoltWinters
+                        Prediction Function for Fitted Holt-Winters
+                        Models
+stats::predict          Model Predictions
+stats::predict.Arima    Forecast from ARIMA fits
+stats::predict.glm      Predict Method for GLM Fits
+stats::predict.lm       Predict method for Linear Model Fits
+stats::predict.loess    Predict Loess Curve or Surface
+stats::predict.nls      Predicting from Nonlinear Least Squares Fits
+stats::predict.smooth.spline
+                        Predict from Smoothing Spline Fit
+stats::princomp         Principal Components Analysis
+
+
+Type '?PKG::FOO' to inspect entries 'PKG::FOO', or 'TYPE?PKG::FOO' for
+entries like 'PKG::FOO-TYPE'.
+
+
+
+
